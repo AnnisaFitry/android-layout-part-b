@@ -5,8 +5,16 @@
     NIM   : 2041720123
   Praktikum ini dilakukan dengan mengikuti petunjuk dari website : https://developer.android.com/codelabs/android-training-layout-editor-part-b#0
 
-
 ## Hasil Praktikum
-
-## Tugas : Coding Challenge
+### Task 1 : phone potrait and landscape
+![](images/lands.jpeg)
+![](images/vertikal.jpeg)
+### Task 1 : tablet potrait and landscape
+![](images/tablet-l.jpeg)
+![](images/tablet-p.jpeg)
+### Coding Challenge 1
 ![](images/)
+### Task 2
+![](images/linier.jpeg)
+### Task 3
+![](images/relative.jpeg)
