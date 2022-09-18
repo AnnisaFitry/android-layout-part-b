@@ -10,11 +10,11 @@
 ![](images/lands.jpeg)
 ![](images/vertikal.jpeg)
 ### Task 1 : tablet potrait and landscape
-![](images/tablet-l.jpeg)
-![](images/tablet-p.jpeg)
+![](images/tablet-l.jpg)
+![](images/tablet-p.jpg)
 ### Coding Challenge 1
-![](images/)
+![](images/challenge.jpg)
 ### Task 2
-![](images/linier.jpeg)
+![](images/linier.jpg)
 ### Task 3
-![](images/relative.jpeg)
+![](images/relative.jpg)
