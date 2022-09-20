@@ -18,3 +18,8 @@
 ![](images/linier.jpg)
 ### Task 3
 ![](images/relative.jpg)
+### Homework
+![](images/h1.jpeg)
+![](images/h2.jpeg)
+![](images/l1.jpg)
+![](images/t1.jpg)
